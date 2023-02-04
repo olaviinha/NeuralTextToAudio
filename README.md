@@ -1,5 +1,23 @@
 # Neural Text-To-Audio
 
-A repoitory for text-to-audio Colab notebooks.
+Collection of text-to-audio Colab notebooks with simplified GUIs. From newest to oldest:
 
-Currently only a modified version of MubertAI Text-to-Music notebook is available. See the [the original repository by MubertAI](https://github.com/MubertAI/Mubert-Text-to-Music) for information, such as licensing.
+- [AudioLDM](https://colab.research.google.com/github/olaviinha/NeuralTextToAudio/blob/main/AudioLDM_pub.ipynb)
+- [MubertAI Text-to-Music](https://colab.research.google.com/github/olaviinha/NeuralTextToMusic/blob/main/mubert_txt2music.ipynb)
+
+---
+
+## AudioLDM: Text-to-Audio Generation with Latent Diffusion Models
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToAudio/blob/main/AudioLDM_pub.ipynb)
+
+Paper: https://arxiv.org/abs/2301.12503
+
+Colab for [AudioLDM](https://github.com/haoheliu/AudioLDM) via [camenduru's Colab](https://github.com/camenduru/audioldm-colab). This is the _Stable Diffusion of audio_, or, at least the beginning of it.
+
+---
+
+## MubertAI Text-to-Music
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToAudio/blob/main/AudioLDM_pub.ipynb)
+
+Colab for [MubertAI Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music). Generates music from predefined blocks created by the community, afaik. See the [source repository](https://github.com/MubertAI/Mubert-Text-to-Music) for information, such as licensing.
