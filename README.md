@@ -1,6 +1,8 @@
-# Neural Text-To-Audio
+# Colab notebooks for text-to-audio generators
 
-Collection of text-to-audio Colab notebooks with simplified GUIs. From newest to oldest:
+User-friendly Colab notebooks for various text prompt steered synthetic audio generators.
+
+**Available notebooks (latest to oldest):**
 
 - [AudioLDM](https://colab.research.google.com/github/olaviinha/NeuralTextToAudio/blob/main/AudioLDM_pub.ipynb)
 - [MubertAI Text-to-Music](https://colab.research.google.com/github/olaviinha/NeuralTextToMusic/blob/main/mubert_txt2music.ipynb)
