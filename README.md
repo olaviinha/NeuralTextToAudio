@@ -25,7 +25,7 @@ Colab for [AudioLDM](https://github.com/haoheliu/AudioLDM) via [camenduru's Cola
 
 Paper: [Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis](https://arxiv.org/pdf/1806.04558.pdf)
 
-Colab for [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning). It will take a text string and an audio file of a speaker's voice, and attempt to synthesize the text using the given voice. Results are not great.
+Colab for [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning). It will take a text string and an audio file of a speaker's voice, and attempt to synthesize the text using the given voice. Fair warning: results are not great.
 
 ---
 
