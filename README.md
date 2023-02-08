@@ -31,6 +31,6 @@ Colab for [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice
 
 ## MubertAI Text-to-Music
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToAudio/blob/main/AudioLDM_pub.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToMusic/blob/main/mubert_txt2music.ipynb)
 
 Colab for [MubertAI Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music). Generates music from predefined blocks created by the community, afaik. See the [source repository](https://github.com/MubertAI/Mubert-Text-to-Music) for information, such as licensing.
