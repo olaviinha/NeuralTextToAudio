@@ -15,7 +15,7 @@ User-friendly Colab notebooks for various text prompt steered synthetic audio ge
 
 Paper: [Text-to-Audio Generation with Latent Diffusion Models](https://arxiv.org/abs/2301.12503)
 
-Colab for [AudioLDM](https://github.com/haoheliu/AudioLDM) via [camenduru's Colab](https://github.com/camenduru/audioldm-colab). This is the _Stable Diffusion of audio_, or, at least the beginning of it. Currently capable of producing 16 kHz audio only.
+Colab for [AudioLDM](https://github.com/haoheliu/AudioLDM) via [camenduru's Colab](https://github.com/camenduru/audioldm-colab). This is the _"Stable Diffusion of audio"_, or, at least the beginning of it. Currently capable of producing 16 kHz audio only.
 
 ---
 
