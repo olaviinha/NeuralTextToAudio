@@ -25,7 +25,7 @@ Colab for [AudioLDM](https://github.com/haoheliu/AudioLDM). Generates audio base
 
 Paper: [TorToiSe - Spending Compute for High Quality TTS](https://docs.google.com/document/d/13O_eyY65i6AkNrN_LdPhpUjGhyTNKYHvDrIvHnHe1GA)
 
-Colab for [TorToiSe](https://github.com/neonbjb/tortoise-tts) text-to-speech voice-cloning. This notebook takes a text string and an audio file (or files) of a speaker's voice, and attempt to synthesize the text using the given voice. Currently works with English text only.
+Colab for [TorToiSe](https://github.com/neonbjb/tortoise-tts) text-to-speech voice-cloning. This notebook takes a text string and an audio file (or files) of a speaker's voice, and attempts to synthesize the text using the given voice. Currently works with English text only.
 
 ---
 
