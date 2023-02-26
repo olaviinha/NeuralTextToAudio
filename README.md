@@ -4,10 +4,10 @@ User-friendly Colab notebooks for various text prompt steered synthetic audio ge
 
 **Available notebooks:**
 
-- [AudioLDM](https://colab.research.google.com/github/olaviinha/NeuralTextToAudio/blob/main/AudioLDM_pub.ipynb) – __text-to-audio__
-- [TorToiSe TTS](https://colab.research.google.com/github/olaviinha/NeuralTextToAudio/blob/main/tortoise_tts_pub.ipynb) – __text-to-speech__
-- [MubertAI Text-to-Music](https://colab.research.google.com/github/olaviinha/NeuralTextToMusic/blob/main/mubert_txt2music.ipynb) – __text-to-music__
-- [TTS Voice Cloning](https://colab.research.google.com/github/olaviinha/NeuralTextToAudio/blob/main/TTS_voice_cloning_pub.ipynb) – __text-to-speech__
+- [AudioLDM](https://colab.research.google.com/github/olaviinha/NeuralTextToAudio/blob/main/AudioLDM_pub.ipynb) – _text-to-audio_
+- [TorToiSe TTS](https://colab.research.google.com/github/olaviinha/NeuralTextToAudio/blob/main/tortoise_tts_pub.ipynb) – _text-to-speech_
+- [MubertAI Text-to-Music](https://colab.research.google.com/github/olaviinha/NeuralTextToMusic/blob/main/mubert_txt2music.ipynb) – _text-to-music_
+- [TTS Voice Cloning](https://colab.research.google.com/github/olaviinha/NeuralTextToAudio/blob/main/TTS_voice_cloning_pub.ipynb) – _text-to-speech_
 
 ---
 
