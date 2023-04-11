@@ -31,6 +31,8 @@ Colab for [TorToiSe](https://github.com/neonbjb/tortoise-tts) text-to-speech voi
 
 ## MubertAI Text-to-Music
 
+UPDATE: it seems like Mubert API now requires (paid) API key.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToMusic/blob/main/mubert_txt2music.ipynb)
 
 Colab for [MubertAI Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music). Generates music using predefined blocks created by the community (afaik) based on text description. See the [source repository](https://github.com/MubertAI/Mubert-Text-to-Music) for information, such as licensing.
