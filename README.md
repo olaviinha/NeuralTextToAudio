@@ -1,5 +1,7 @@
 # Colab notebooks for text-to-audio generators
 
+❗️ **This repository is not actively maintained since 2023, as closed-source state-of-the-art text-to-audio solutions are now widely available for everyone.**
+
 User-friendly Colab notebooks for various text prompt steered synthetic audio generators.
 
 **Available notebooks:**
